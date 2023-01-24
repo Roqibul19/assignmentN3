@@ -8,3 +8,27 @@
 .service-color{
     color: rgb(199, 150, 76);
 }
+.carousel-img1{
+    background-image: url(../images/slider-1.jpg);
+    height: 75vh;
+    width: 100%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+.carousel-img2{
+    background-image: url(../images/slider-2.jpg);
+    height: 75vh;
+    width: 100%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+.carousel-img3{
+    background-image: url(../images/slider-3.jpg);
+    height: 75vh;
+    width: 100%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+.my-footer{
+    background-color: black;
+}

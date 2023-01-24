@@ -313,7 +313,7 @@ button,
 select,
 optgroup,
 textarea {
-  margin: 0;
+  margin: 10px;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -7338,11 +7338,13 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #0d6efd !important;
+  color: white !important;
+  font-family: 'EB Garamond';
+  
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: white !important;
 }
 
 .text-success {

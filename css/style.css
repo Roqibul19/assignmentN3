@@ -1,0 +1,6 @@
+.banner-img{
+    background-image: url(../images/banner.png);
+    height: 75vh;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}

@@ -1,6 +1,10 @@
 .banner-img{
     background-image: url(../images/banner.png);
     height: 75vh;
+    width: 100%;
     border-radius: 10px;
     background-repeat: no-repeat;
+}
+.service-color{
+    color: rgb(199, 150, 76);
 }

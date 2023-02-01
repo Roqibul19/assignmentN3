@@ -29,6 +29,18 @@
     border-radius: 10px;
     background-repeat: no-repeat;
 }
+
 .my-footer{
     background-color: black;
 }
+ @media only screen and (max-width: 600px){
+    .accordion-part {
+      flex-direction: column;
+      flex-direction: column-reverse;
+    }
+    .footer-items{
+        flex-direction: column;
+        text-align:center;
+
+    }
+  }
